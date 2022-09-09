@@ -13,7 +13,7 @@ public class CircleSpawn : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("Spawn", 0.3f, Random.Range(0.3f,0.8f));                                      //spawns a sprite randomly every 1 to 2 seconds
+        InvokeRepeating("Spawn", 0.3f, Random.Range(0.3f,0.8f));                                 //spawns a sprite randomly every 1 to 2 seconds
     }
 
     // Update is called once per frame
