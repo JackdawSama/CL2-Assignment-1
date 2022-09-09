@@ -242,6 +242,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 1a290e9671c34407e95b61ec92c61adb, type: 3}
   - {fileID: 21300000, guid: 469c503b7318446e0a6dbeb4e2f4e051, type: 3}
   - {fileID: 21300000, guid: 21ba1126c43294a819ea53fecc36a278, type: 3}
+  radius: 3
 --- !u!4 &2146397566
 Transform:
   m_ObjectHideFlags: 0
